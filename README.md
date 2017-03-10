@@ -29,4 +29,4 @@ There's one big reason for this; the ability to include external jade files into
 Also, Jade makes HTML a breeze. In fact, I've even included a basic HTML coditional mixin to make the HTML conditionals (For instance, <--[if lt IE8]>) more intuitive to write. I've included some examples of this in the src/index.jade file for you to check out.
 
 ## License
-There is no license. Do whatever the fuck you want with this.
+There is no license. 
